@@ -1,0 +1,12 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
